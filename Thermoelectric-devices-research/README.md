@@ -220,3 +220,12 @@ Current commercial thermoelectric devices achieve:
 
 
 # Experimental Results
+
+
+Initial experiment was to provide understanding on the limitation, and efficient point of the Thermoelectric device that will be used throught.
+
+![alt text](voltage.eps)
+
+The experiment conducted here was to measure the  voltage egerated by the thermoelectric device as we increase the heat on one side of the thermoelectric device.
+
+It can be seen from the graph that the most voltage generated is 
