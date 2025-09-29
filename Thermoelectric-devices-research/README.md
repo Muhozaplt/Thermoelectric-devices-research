@@ -20,6 +20,10 @@ This document contain research conducted on Thermoelectric device as my capstone
 6. Transformer
     Source: https://www.coilcraft.com/en-us/products/power/coupled-inductors/1-n-shielded-coupled/lpr/lpr6235/lpr6235-752r/?srsltid=AfmBOopEkPoNorhlWwUxvnun_wpW5BROGs27PXitI0_5nXwgn1OlerQR
 
+![alt text](heatsink.jpg)
+![alt text](heatsink_attached.jpg.jpg)
+![alt text](ltc3108_1.jpg)
+![alt text](ltc3108_2.jpg)
 
 # Thermoelectric Effects Theory
 
@@ -224,9 +228,13 @@ Current commercial thermoelectric devices achieve:
 
 Initial experiment was to provide understanding on the limitation, and efficient point of the Thermoelectric device that will be used throught.
 
-![alt text](<voltage (copy 1).png>)
+![alt text](thermoelectric_device.jpg)
+>> Thermoelectric device used in the experiment
 
 The experiment conducted here was to measure the  voltage egerated by the thermoelectric device as we increase the heat on one side of the thermoelectric device.
+
+![alt text](voltage.png)
+> Figure 1: Voltage measured as temperature increased
 
 It can be seen from the graph that the most voltage generated is 
 
